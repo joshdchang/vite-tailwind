@@ -1,7 +1,7 @@
 # vite-tailwind
 
-A template for Vite + TypeScript + Tailwind + PNPM
-
+My template for a new Vite + TypeScript + Tailwind + PNPM project
+ 
 ```bash
 pnpx degit joshdchang/vite-tailwind my-project
 cd my-project
